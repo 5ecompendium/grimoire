@@ -1,11 +1,11 @@
 # Site settings
-title: "Emporium"
-author: "Desamir"
+title: "Grimoire"
+author: "Saph, thebombzen, Desamir"
 description:
-  "A searchable D&D 5e magic item list."
-baseurl: "/emporium" # the subpath of your site, e.g. /blog/
+  "A searchable D&D 5e spell list."
+baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
 url: "https://5ecompendium.github.io" # the base hostname & protocol for your site
-source-url: "https://github.com/5ecompendium/emporium/"
+source-url: "https://github.com/5ecompendium/grimoire/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
@@ -20,10 +20,10 @@ defaults:
       path: ""
       type: "posts"
     values:
-      category: "items"
+      category: "spells"
 
 collections:
-  items:
+  spells:
     output: true
   tags:
     output: true

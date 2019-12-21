@@ -1,15 +1,15 @@
-# Emporium
+# Grimoire
 
-Emporium is a searchable, mobile-friendly 5e magic item shop that organizes items by rarity.
+Grimoire is a searchable, mobile-friendly 5e spellbook that organizes spells by class and level.
 
-See the latest compiled build here: [https://5ecompendium.github.io/emporium/](https://5ecompendium.github.io/emporium/)
+See the latest compiled build here: [https://5ecompendium.github.io/grimoire/](https://5ecompendium.github.io/grimoire/)
 
-Emporium is forked from [thebombzen/grimoire](https://github.com/thebombzen/grimoire/).
+Grimoire is forked from [thebombzen/grimoire](https://github.com/thebombzen/grimoire/).
 
 ## Structure
-Items can be found inside `_items/`. Each item gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file.
+Spells can be found inside `_spells/`. Each spell gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file.
 
-To add items, make a new file inside `_items/` for each new item, and copy the formatting from another item.
+To add spells, make a new file inside `_spells/` for each new spell, and copy the formatting from another spell.
 
 To add tags, make a new file inside `_tags/` for each new tag, and copy the formatting from another tag.
 
