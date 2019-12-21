@@ -8,10 +8,13 @@ Contact: lqian8@jhu.edu
 
 This script creates tags for your Jekyll blog hosted by Github page.
 No plugins required.
+
+Run this to generate the tag pages before pushing to Github Pages (since jekyll-archive isn't yet whitelisted).
 '''
 
 import glob
 import os
+import re
 
 post_dir = '_spells/'
 tag_dir = '_tags/'
@@ -24,9 +27,12 @@ for filename in filenames:
     crawl = False
     for line in f:
         if crawl:
-            current_tags = line.strip().split()
-            if current_tags[0] == 'tags:':
-                total_tags.extend(current_tags[1:])
+            stripped_line = re.sub('[\[\]]', '', line.strip())          # -> "tags: A, B, C"
+            current_tags = stripped_line.split(':')                     # -> ["tags", " A, B, C"]
+            if current_tags[0] == 'tags':                               #
+                current_tags = current_tags[1].strip().split(',')       # -> ["A", " B", "C"]
+                current_tags = [tag.strip() for tag in current_tags]    # -> ["A,", "B", "C"]
+                total_tags.extend(current_tags)
                 crawl = False
                 break
         if line.strip() == '---':
@@ -48,7 +54,7 @@ if not os.path.exists(tag_dir):
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    write_str = '---\nlayout: tag\nname: \"' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())
