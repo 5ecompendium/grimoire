@@ -2,7 +2,7 @@
 layout: spell
 title: "Wall of Fire"
 sources: [PHB.285, SRD.190]
-tags: [cleric (forge), cleric (light), druid, monk (four elements), sorcerer, warlock (fiend), wizard, level4, evocation]
+tags: [artificer (artillerist), cleric (forge), cleric (light), druid, monk (four elements), sorcerer, warlock (fiend), wizard, level4, evocation]
 ---
 
 **4th-level evocation**

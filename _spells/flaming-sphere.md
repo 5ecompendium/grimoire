@@ -2,7 +2,7 @@
 layout: spell
 title: "Flaming Sphere"
 sources: [PHB.242, SRD.145]
-tags: [cleric (light), druid, wizard, level2, conjuration]
+tags: [artificer (alchemist), cleric (light), druid, wizard, level2, conjuration]
 ---
 
 **2nd-level conjuration**

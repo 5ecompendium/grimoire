@@ -2,7 +2,7 @@
 layout: spell
 title:  "Healing Word"
 sources: [PHB.250, SRD.153]
-tags: [bard, cleric, druid, level1, evocation]
+tags: [artificer (alchemist), bard, cleric, druid, level1, evocation]
 ---
 
 **1st-level evocation**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Conjure Barrage"
 sources: [PHB.225]
-tags: [ranger, level3, conjuration]
+tags: [artificer (battle smith), ranger, level3, conjuration]
 ---
 
 **3rd-level conjuration**

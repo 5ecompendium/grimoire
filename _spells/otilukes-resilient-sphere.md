@@ -2,7 +2,7 @@
 layout: spell
 title: "Otiluke’s Resilient Sphere"
 sources: [PHB.264]
-tags: [paladin (redemption), wizard, level4, evocation]
+tags: [artificer, paladin (redemption), wizard, level4, evocation]
 ---
 
 **4th-level evocation**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Snare"
 sources: [Xanathar.165]
-tags: [druid, ranger, wizard, level1, abjuration]
+tags: [artificer, druid, ranger, wizard, level1, abjuration]
 ---
 
 **1st-level abjuration**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Darkvision"
 sources: [PHB.230, SRD.133]
-tags: [druid, monk (shadow), ranger, sorcerer, wizard, level2, transmutation]
+tags: [artificer, druid, monk (shadow), ranger, sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

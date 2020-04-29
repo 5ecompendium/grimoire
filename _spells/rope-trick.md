@@ -2,7 +2,7 @@
 layout: spell
 title: "Rope Trick"
 sources: [PHB.272, SRD.176]
-tags: [wizard, level2, transmutation]
+tags: [artificer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

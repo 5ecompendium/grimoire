@@ -2,7 +2,7 @@
 layout: spell
 title: "Raise Dead"
 sources: [PHB.270, SRD.173]
-tags: [cleric, paladin, bard, level5, necromancy]
+tags: [artificer (alchemist), cleric, paladin, bard, level5, necromancy]
 ---
 
 **5th-level necromancy**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Light"
 sources: [PHB.255, SRD.159]
-tags: [bard, cleric, sorcerer, wizard, cantrip, evocation]
+tags: [artificer, bard, cleric, sorcerer, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Create Food and Water"
 sources: [PHB.229, SRD.131]
-tags: [cleric, druid (desert), paladin, level3, conjuration]
+tags: [artificer, cleric, druid (desert), paladin, level3, conjuration]
 ---
 
 **3rd-level conjuration**

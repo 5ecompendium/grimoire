@@ -2,7 +2,7 @@
 layout: spell
 title:  "Dancing Lights"
 sources: [PHB.230, SRD.133]
-tags: [elf (drow), bard, sorcerer, wizard, cantrip, evocation]
+tags: [elf (drow), artificer, bard, sorcerer, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

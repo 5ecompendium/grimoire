@@ -1,3 +1,5 @@
+- name: Artificer
+  tag: artificer
 - name: Bard
   tag: bard
 - name: Cleric

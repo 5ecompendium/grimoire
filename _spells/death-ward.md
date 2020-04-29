@@ -2,7 +2,7 @@
 layout: spell
 title:  "Death Ward"
 sources: [PHB.230, SRD.133]
-tags: [cleric, paladin, warlock (undying), level4, abjuration]
+tags: [artificer (alchemist), cleric, paladin, warlock (undying), level4, abjuration]
 ---
 
 **4th-level abjuration**

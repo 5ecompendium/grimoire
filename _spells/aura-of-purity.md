@@ -2,7 +2,7 @@
 layout: spell
 title:  "Aura of Purity"
 sources: [PHB.216]
-tags: [paladin, level4, abjuration]
+tags: [artificer (battle smith), paladin, level4, abjuration]
 ---
 
 **4th-level abjuration**

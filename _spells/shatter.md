@@ -2,7 +2,7 @@
 layout: spell
 title: "Shatter"
 sources: [PHB.275, SRD.178]
-tags: [bard, cleric (tempest), monk (four elements), sorcerer, warlock, wizard, level2, evocation]
+tags: [artificer (artillerist), bard, cleric (tempest), monk (four elements), sorcerer, warlock, wizard, level2, evocation]
 ---
 
 **2nd-level evocation**

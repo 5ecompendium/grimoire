@@ -2,7 +2,7 @@
 layout: spell
 title:  "Revivify"
 sources: [PHB.272, SRD.175]
-tags: [cleric, paladin, level3, necromancy]
+tags: [artificer, cleric, paladin, level3, necromancy]
 ---
 
 **3rd-level necromancy**

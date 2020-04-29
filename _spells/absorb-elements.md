@@ -2,7 +2,7 @@
 layout: spell
 title:  "Absorb Elements"
 sources: [EE.15, Xanathar.150]
-tags: [druid, ranger, sorcerer, wizard, level1, abjuration]
+tags: [artificer, druid, ranger, sorcerer, wizard, level1, abjuration]
 ---
 
 **1st-level abjuration**

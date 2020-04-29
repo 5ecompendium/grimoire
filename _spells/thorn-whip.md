@@ -2,7 +2,7 @@
 layout: spell
 title:  "Thorn Whip"
 sources: [PHB.282]
-tags: [druid, cantrip, transmutation]
+tags: [artificer, druid, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

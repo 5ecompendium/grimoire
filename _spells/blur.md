@@ -2,7 +2,7 @@
 layout: spell
 title:  "Blur"
 sources: [PHB.219, SRD.123]
-tags: [druid (desert), sorcerer, wizard, level2, illusion]
+tags: [artificer, druid (desert), sorcerer, wizard, level2, illusion]
 ---
 
 **2nd-level illusion**

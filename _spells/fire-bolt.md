@@ -2,7 +2,7 @@
 layout: spell
 title:  "Fire Bolt"
 sources: [PHB.241, SRD.144]
-tags: [sorcerer, wizard, cantrip, evocation]
+tags: [artificer, sorcerer, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

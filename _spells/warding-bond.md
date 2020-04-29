@@ -2,7 +2,7 @@
 layout: spell
 title:  "Warding Bond"
 sources: [PHB.287, SRD.191]
-tags: [cleric, paladin (crown), level2, abjuration]
+tags: [artificer (battle smith), cleric, paladin (crown), level2, abjuration]
 ---
 
 **2nd-level abjuration**

@@ -2,7 +2,7 @@
 layout: spell
 title: "Mordenkainen’s Faithful Hound"
 sources: [PHB.261]
-tags: [wizard, level4, conjuration]
+tags: [artificer, wizard, level4, conjuration]
 ---
 
 **4th-level conjuration**

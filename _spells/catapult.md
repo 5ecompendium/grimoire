@@ -2,7 +2,7 @@
 layout: spell
 title:  "Catapult"
 sources: [EE.15, Xanathar.150]
-tags: [sorcerer, wizard, level1, transmutation]
+tags: [artificer, sorcerer, wizard, level1, transmutation]
 ---
 
 **1st-level transmutation**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Disguise Self"
 sources: [PHB.233, SRD.135]
-tags: [bard, cleric (trickery), sorcerer, wizard, level1, illusion]
+tags: [artificer, bard, cleric (trickery), sorcerer, wizard, level1, illusion]
 ---
 
 **1st-level illusion**

@@ -2,7 +2,7 @@
 layout: spell
 title: "Wall of Force"
 sources: [PHB.285, SRD.190]
-tags: [paladin (redemption), wizard, level5, evocation]
+tags: [artificer (artillerist), paladin (redemption), wizard, level5, evocation]
 ---
 
 **5th-level evocation**

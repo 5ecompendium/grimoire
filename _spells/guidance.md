@@ -2,7 +2,7 @@
 layout: spell
 title:  "Guidance"
 sources: [PHB.248, SRD.151]
-tags: [cleric, druid, cantrip, divination]
+tags: [artificer, cleric, druid, cantrip, divination]
 ---
 
 **Divination cantrip**

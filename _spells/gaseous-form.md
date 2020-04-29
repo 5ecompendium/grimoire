@@ -2,7 +2,7 @@
 layout: spell
 title:  "Gaseous Form"
 sources: [PHB.244, SRD.148]
-tags: [druid (underdark), monk (four elements), sorcerer, wizard, warlock, level3, transmutation]
+tags: [artificer (alchemist), druid (underdark), monk (four elements), sorcerer, wizard, warlock, level3, transmutation]
 ---
 
 **3rd-level transmutation**

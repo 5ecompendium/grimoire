@@ -2,7 +2,7 @@
 layout: spell
 title: "Fabricate"
 sources: [PHB.239, SRD.141]
-tags: [cleric (forge), wizard, level4, transmutation]
+tags: [artificer, cleric (forge), wizard, level4, transmutation]
 ---
 
 **4th-level transmutation**

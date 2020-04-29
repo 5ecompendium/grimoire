@@ -2,7 +2,7 @@
 layout: spell
 title:  "Detect Magic"
 sources: [PHB.231, SRD.134]
-tags: [bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, ritual, divination]
+tags: [artificer, bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, ritual, divination]
 ---
 
 **1st-level divination (ritual)**

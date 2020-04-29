@@ -2,7 +2,7 @@
 layout: spell
 title: "Leomund’s Secret Chest"
 sources: [PHB.254]
-tags: [cleric (arcana), wizard, level4, conjuration]
+tags: [artificer, cleric (arcana), wizard, level4, conjuration]
 ---
 
 **4th-level conjuration**

@@ -2,7 +2,7 @@
 layout: spell
 title: "Fire Shield"
 sources: [PHB.241, SRD.144]
-tags: [warlock (fiend), wizard, level4, evocation]
+tags: [artificer (battle smith), warlock (fiend), wizard, level4, evocation]
 ---
 
 **4th-level evocation**

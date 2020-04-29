@@ -2,7 +2,7 @@
 layout: spell
 title: "Protection from Poison"
 sources: [PHB.270, SRD.173]
-tags: [cleric, ranger, paladin, druid, level2, abjuration]
+tags: [artificer, cleric, ranger, paladin, druid, level2, abjuration]
 ---
 
 **2nd-level abjuration**

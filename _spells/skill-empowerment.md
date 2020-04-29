@@ -2,7 +2,7 @@
 layout: spell
 title:  "Skill Empowerment"
 sources: [Xanathar.165]
-tags: [bard, sorcerer, wizard, level5, transmutation]
+tags: [artificer, bard, sorcerer, wizard, level5, transmutation]
 ---
 
 **5th-level transmutation**

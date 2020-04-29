@@ -2,7 +2,7 @@
 layout: spell
 title:  "Blight"
 sources: [PHB.219, SRD.122]
-tags: [cleric (death), cleric (grave), druid, paladin (oathbreaker), sorcerer, warlock, wizard, level4, necromancy]
+tags: [artificer (alchemist), cleric (death), cleric (grave), druid, paladin (oathbreaker), sorcerer, warlock, wizard, level4, necromancy]
 ---
 
 **4th-level necromancy**

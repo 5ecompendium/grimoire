@@ -2,7 +2,7 @@
 layout: spell
 title: "Banishing Smite"
 sources: [PHB.216]
-tags: [paladin, level5, abjuration]
+tags: [artificer (battle smith), paladin, level5, abjuration]
 ---
 
 **5th-level abjuration**

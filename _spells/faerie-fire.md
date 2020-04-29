@@ -2,7 +2,7 @@
 layout: spell
 title:  "Faerie Fire"
 sources: [PHB.239, SRD.141]
-tags: [elf (drow), bard, cleric (light), druid, warlock (fae), level1, evocation]
+tags: [elf (drow), artificer, bard, cleric (light), druid, warlock (fae), level1, evocation]
 ---
 
 **1st-level evocation**

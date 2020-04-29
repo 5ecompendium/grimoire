@@ -2,7 +2,7 @@
 layout: spell
 title:  "Dispel Magic"
 sources: [PHB.234, SRD.136]
-tags: [bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3, abjuration]
+tags: [artificer, bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3, abjuration]
 ---
 
 **3rd-level abjuration**

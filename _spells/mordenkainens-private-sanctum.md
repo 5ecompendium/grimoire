@@ -2,7 +2,7 @@
 layout: spell
 title: "Mordenkainen’s Private Sanctum"
 sources: [PHB.262]
-tags: [wizard, level4, abjuration]
+tags: [artificer, wizard, level4, abjuration]
 ---
 
 **4th-level abjuration**

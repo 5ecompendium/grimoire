@@ -2,7 +2,7 @@
 layout: spell
 title: "Enlarge/Reduce"
 sources: [PHB.237, SRD.140]
-tags: [sorcerer, wizard, level2, transmutation]
+tags: [artificer, sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Branding Smite"
 sources: [PHB.219, SRD.123]
-tags: [paladin, level2, evocation]
+tags: [artificer (battle smith), paladin, level2, evocation]
 ---
 
 **2nd-level evocation**

@@ -2,7 +2,7 @@
 layout: spell
 title: "Scorching Ray"
 sources: [PHB.273, SRD.176]
-tags: [cleric (light), sorcerer, warlock (fiend), wizard, level2, evocation]
+tags: [artificer (artillerist), cleric (light), sorcerer, warlock (fiend), wizard, level2, evocation]
 ---
 
 **2nd-level evocation**

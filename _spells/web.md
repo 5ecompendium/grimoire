@@ -2,7 +2,7 @@
 layout: spell
 title: "Web"
 sources: [PHB.287, SRD.192]
-tags: [druid (underdark), sorcerer, wizard, level2, conjuration]
+tags: [artificer, druid (underdark), sorcerer, wizard, level2, conjuration]
 ---
 
 **2nd-level conjuration**

@@ -2,7 +2,7 @@
 layout: spell
 title: "Wind Wall"
 sources: [PHB.288, SRD.192]
-tags: [cleric (nature), druid, ranger, level3, evocation]
+tags: [artificer (artillerist), cleric (nature), druid, ranger, level3, evocation]
 ---
 
 **3rd-level evocation**

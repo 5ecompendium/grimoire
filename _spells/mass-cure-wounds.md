@@ -2,7 +2,7 @@
 layout: spell
 title: "Mass Cure Wounds"
 sources: [PHB.258, SRD.162]
-tags: [bard, cleric, druid, level5, evocation]
+tags: [artificer (battle smith), bard, cleric, druid, level5, evocation]
 ---
 
 **5th-level evocation**

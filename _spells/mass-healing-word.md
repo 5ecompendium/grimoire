@@ -2,7 +2,7 @@
 layout: spell
 title:  "Mass Healing Word"
 sources: [PHB.258, SRD.163]
-tags: [cleric, level3, evocation]
+tags: [artificer (alchemist), cleric, level3, evocation]
 ---
 
 **3rd-level evocation**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Cure Wounds"
 sources: [PHB.230, SRD.132]
-tags: [bard, cleric, druid, paladin, ranger, level1, evocation]
+tags: [artificer, bard, cleric, druid, paladin, ranger, level1, evocation]
 ---
 
 **1st-level evocation**

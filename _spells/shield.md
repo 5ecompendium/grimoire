@@ -2,7 +2,7 @@
 layout: spell
 title:  "Shield"
 sources: [PHB.275, SRD.179]
-tags: [sorcerer, wizard, level1, abjuration]
+tags: [artificer (artillerist), artificer (battle smith), sorcerer, wizard, level1, abjuration]
 ---
 
 **1st-level abjuration**

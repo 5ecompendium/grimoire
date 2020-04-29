@@ -2,7 +2,7 @@
 layout: spell
 title: "Greater Restoration"
 sources: [PHB.246, SRD.150]
-tags: [bard, cleric, druid, level5, abjuration]
+tags: [artificer, bard, cleric, druid, level5, abjuration]
 ---
 
 **5th-level abjuration**

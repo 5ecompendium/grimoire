@@ -2,7 +2,7 @@
 layout: spell
 title:  "Skywrite"
 sources: [EE.22, Xanathar.165]
-tags: [bard, druid, wizard, level2, ritual, transmutation]
+tags: [artificer, bard, druid, wizard, level2, ritual, transmutation]
 ---
 
 **2nd-level transmutation (ritual)**

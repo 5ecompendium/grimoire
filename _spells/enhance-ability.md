@@ -2,7 +2,7 @@
 layout: spell
 title: "Enhance Ability"
 sources: [PHB.237, SRD.139]
-tags: [bard, cleric, druid, sorcerer, level2, transmutation]
+tags: [artificer, bard, cleric, druid, sorcerer, level2, transmutation]
 ---
 
 **2nd-level transmutation**

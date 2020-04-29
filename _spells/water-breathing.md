@@ -2,7 +2,7 @@
 layout: spell
 title: "Water Breathing"
 sources: [PHB.287, SRD.191]
-tags: [druid, ranger, sorcerer, wizard, level3, ritual, transmutation]
+tags: [artificer, druid, ranger, sorcerer, wizard, level3, ritual, transmutation]
 ---
 
 **3rd-level transmutation (ritual)**

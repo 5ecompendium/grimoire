@@ -2,7 +2,7 @@
 layout: spell
 title:  "Shocking Grasp"
 sources: [PHB.275, SRD.179]
-tags: [sorcerer, wizard, cantrip, evocation]
+tags: [artificer, sorcerer, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Ray of Frost"
 sources: [PHB.271, SRD.174]
-tags: [sorcerer, wizard, cantrip, evocation]
+tags: [artificer, sorcerer, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

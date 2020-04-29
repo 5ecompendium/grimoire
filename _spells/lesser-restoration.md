@@ -2,7 +2,7 @@
 layout: spell
 title:  "Lesser Restoration"
 sources: [PHB.255, SRD.158]
-tags: [bard, cleric, druid, paladin, ranger, level2, abjuration]
+tags: [artificer, bard, cleric, druid, paladin, ranger, level2, abjuration]
 ---
 
 **2nd-level abjuration**

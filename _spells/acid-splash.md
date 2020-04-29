@@ -2,7 +2,7 @@
 layout: spell
 title:  "Acid Splash"
 sources: [PHB.211, SRD.114]
-tags: [sorcerer, wizard, cantrip, conjuration]
+tags: [artificer, sorcerer, wizard, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

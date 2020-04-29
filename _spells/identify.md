@@ -2,7 +2,7 @@
 layout: spell
 title:  "Identify"
 sources: [PHB.252, SRD.155]
-tags: [bard, cleric (forge), cleric (knowledge), wizard, level1, ritual, divination]
+tags: [artificer, bard, cleric (forge), cleric (knowledge), wizard, level1, ritual, divination]
 ---
 
 **1st-level divination (ritual)**

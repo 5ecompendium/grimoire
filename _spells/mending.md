@@ -2,7 +2,7 @@
 layout: spell
 title:  "Mending"
 sources: [PHB.259, SRD.164]
-tags: [bard, cleric, druid, sorcerer, wizard, cantrip, transmutation]
+tags: [artificer, bard, cleric, druid, sorcerer, wizard, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

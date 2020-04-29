@@ -2,7 +2,7 @@
 layout: spell
 title:  "Alarm"
 sources: [PHB.211, SRD.114]
-tags: [ranger, wizard, level1, ritual, abjuration]
+tags: [artificer, ranger, wizard, level1, ritual, abjuration]
 ---
 
 **1st-level abjuration (ritual)**

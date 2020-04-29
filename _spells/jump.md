@@ -2,7 +2,7 @@
 layout: spell
 title:  "Jump"
 sources: [PHB.254, SRD.158]
-tags: [druid, ranger, sorcerer, wizard, level1, transmutation]
+tags: [artificer, druid, ranger, sorcerer, wizard, level1, transmutation]
 ---
 
 **1st-level transmutation**

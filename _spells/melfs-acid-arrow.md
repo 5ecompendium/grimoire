@@ -2,7 +2,7 @@
 layout: spell
 title: "Melf’s Acid Arrow"
 sources: [PHB.259]
-tags: [druid (swamp), wizard, level2, evocation]
+tags: [artificer (alchemist), druid (swamp), wizard, level2, evocation]
 ---
 
 **2nd-level evocation**

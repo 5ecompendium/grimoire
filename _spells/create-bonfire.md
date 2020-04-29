@@ -2,7 +2,7 @@
 layout: spell
 title:  "Create Bonfire"
 sources: [EE.16, Xanathar.152]
-tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
+tags: [artificer, druid, sorcerer, warlock, wizard, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

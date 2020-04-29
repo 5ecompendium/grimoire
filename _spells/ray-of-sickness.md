@@ -2,7 +2,7 @@
 layout: spell
 title:  "Ray of Sickness"
 sources: [PHB.271]
-tags: [cleric (death), sorcerer, warlock (undying), wizard, level1, necromancy]
+tags: [artificer (alchemist), cleric (death), sorcerer, warlock (undying), wizard, level1, necromancy]
 ---
 
 **1st-level necromancy**

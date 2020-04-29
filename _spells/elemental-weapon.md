@@ -2,7 +2,7 @@
 layout: spell
 title:  "Elemental Weapon"
 sources: [PHB.237]
-tags: [cleric (forge), paladin, level3, transmutation]
+tags: [artificer, cleric (forge), paladin, level3, transmutation]
 ---
 
 **3rd-level transmutation**

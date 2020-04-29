@@ -2,7 +2,7 @@
 layout: spell
 title:  "Alter Self"
 sources: [PHB.211, SRD.114]
-tags: [sorcerer, wizard, level2, transmutation]
+tags: [artificer, artificer (alchemist), sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

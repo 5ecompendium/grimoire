@@ -2,7 +2,7 @@
 layout: spell
 title: "Magic Mouth"
 sources: [PHB.257, SRD.161]
-tags: [bard, wizard, level2, ritual, illusion]
+tags: [artificer, bard, wizard, level2, ritual, illusion]
 ---
 
 **2nd-level illusion (ritual)**

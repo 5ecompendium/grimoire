@@ -2,7 +2,7 @@
 layout: spell
 title: "Magic Weapon"
 sources: [PHB.257, SRD.161]
-tags: [cleric (arcana), cleric (forge), cleric (war), paladin, wizard, level2, transmutation]
+tags: [artificer, cleric (arcana), cleric (forge), cleric (war), paladin, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

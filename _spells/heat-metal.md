@@ -2,7 +2,7 @@
 layout: spell
 title: "Heat Metal"
 sources: [PHB.250, SRD.153]
-tags: [bard, cleric (forge), druid, level2, transmutation]
+tags: [artificer, bard, cleric (forge), druid, level2, transmutation]
 ---
 
 **2nd-level transmutation**

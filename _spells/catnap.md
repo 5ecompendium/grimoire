@@ -2,7 +2,7 @@
 layout: spell
 title:  "Catnap"
 sources: [Xanathar.151]
-tags: [bard, sorcerer, wizard, level3, enchantment]
+tags: [artificer, bard, sorcerer, wizard, level3, enchantment]
 ---
 
 **3rd-level enchantment**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Transmute Rock"
 sources: [EE.22, Xanathar.169]
-tags: [druid, wizard, level5, transmutation]
+tags: [artificer, druid, wizard, level5, transmutation]
 ---
 
 **5th-level transmutation**

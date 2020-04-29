@@ -2,7 +2,7 @@
 layout: spell
 title:  "Fireball"
 sources: [PHB.241, SRD.144]
-tags: [cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level3, evocation]
+tags: [artificer (artillerist), cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level3, evocation]
 ---
 
 **3rd-level evocation**

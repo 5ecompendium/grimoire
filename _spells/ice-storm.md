@@ -2,7 +2,7 @@
 layout: spell
 title: "Ice Storm"
 sources: [PHB.252, SRD.155]
-tags: [cleric (tempest), druid, paladin (ancients), sorcerer, wizard, level4, evocation]
+tags: [artificer (artillerist), cleric (tempest), druid, paladin (ancients), sorcerer, wizard, level4, evocation]
 ---
 
 **4th-level evocation**

@@ -2,7 +2,7 @@
 layout: spell
 title:  "Protection from Energy"
 sources: [PHB.270, SRD.173]
-tags: [cleric, druid, paladin (ancients), paladin (vengeance), ranger, sorcerer, wizard, level3, abjuration]
+tags: [artificer, cleric, druid, paladin (ancients), paladin (vengeance), ranger, sorcerer, wizard, level3, abjuration]
 ---
 
 **3rd-level abjuration**

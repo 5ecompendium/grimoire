@@ -2,7 +2,7 @@
 layout: spell
 title: "Wall of Stone"
 sources: [PHB.287, SRD.190]
-tags: [druid, monk (four elements), sorcerer, wizard, level5, evocation]
+tags: [artificer, druid, monk (four elements), sorcerer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

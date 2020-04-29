@@ -2,7 +2,7 @@
 layout: spell
 title: "Cone of Cold"
 sources: [PHB.224, SRD.127]
-tags: [druid (arctic), monk (four elements), sorcerer, wizard, level5, evocation]
+tags: [artificer (artillerist), druid (arctic), monk (four elements), sorcerer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

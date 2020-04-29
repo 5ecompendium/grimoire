@@ -2,7 +2,7 @@
 layout: spell
 title: "Spider Climb"
 sources: [PHB.277, SRD.182]
-tags: [druid (forest), druid (mountain), druid (underdark), sorcerer, warlock, wizard, level2, transmutation]
+tags: [artificer, druid (forest), druid (mountain), druid (underdark), sorcerer, warlock, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

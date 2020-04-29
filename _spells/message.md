@@ -2,7 +2,7 @@
 layout: spell
 title:  "Message"
 sources: [PHB.259, SRD.164]
-tags: [bard, sorcerer, wizard, cantrip, transmutation]
+tags: [artificer, bard, sorcerer, wizard, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

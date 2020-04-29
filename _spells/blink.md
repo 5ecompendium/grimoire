@@ -2,7 +2,7 @@
 layout: spell
 title:  "Blink"
 sources: [PHB.219, SRD.122]
-tags: [cleric (trickery), sorcerer, warlock (fae), wizard, level3, transmutation]
+tags: [artificer, cleric (trickery), sorcerer, warlock (fae), wizard, level3, transmutation]
 ---
 
 **3rd-level transmutation**

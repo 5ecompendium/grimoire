@@ -2,7 +2,7 @@
 layout: spell
 title:  "Mage Hand"
 sources: [PHB.256, SRD.160]
-tags: [bard, sorcerer, warlock, wizard, cantrip, conjuration]
+tags: [artificer, bard, sorcerer, warlock, wizard, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

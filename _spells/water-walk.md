@@ -2,7 +2,7 @@
 layout: spell
 title: "Water Walk"
 sources: [PHB.287, SRD.191]
-tags: [cleric, druid, ranger, sorcerer, level3, ritual, transmutation]
+tags: [artificer, cleric, druid, ranger, sorcerer, level3, ritual, transmutation]
 ---
 
 **3rd-level transmutation (ritual)**

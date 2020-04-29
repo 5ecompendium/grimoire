@@ -2,7 +2,7 @@
 layout: spell
 title: "Stone Shape"
 sources: [PHB.278, SRD.183]
-tags: [cleric, druid, wizard, level4, transmutation]
+tags: [artificer, cleric, druid, wizard, level4, transmutation]
 ---
 
 **4th-level transmutation**

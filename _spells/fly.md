@@ -2,7 +2,7 @@
 layout: spell
 title:  "Fly"
 sources: [PHB.243, SRD.146]
-tags: [monk (four elements), sorcerer, warlock, wizard, level3, transmutation]
+tags: [artificer, monk (four elements), sorcerer, warlock, wizard, level3, transmutation]
 ---
 
 **3rd-level transmutation**

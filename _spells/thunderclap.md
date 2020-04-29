@@ -2,7 +2,7 @@
 layout: spell
 title:  "Thunderclap"
 sources: [EE.22, Xanathar.168]
-tags: [bard, druid, sorcerer, warlock, wizard, cantrip, evocation]
+tags: [artificer, bard, druid, sorcerer, warlock, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

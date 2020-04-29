@@ -2,7 +2,7 @@
 layout: spell
 title:  "Haste"
 sources: [PHB.250, SRD.153]
-tags: [druid (grassland), paladin (vengeance), sorcerer, wizard, level3, transmutation]
+tags: [artificer, druid (grassland), paladin (vengeance), sorcerer, wizard, level3, transmutation]
 ---
 
 **3rd-level transmutation**

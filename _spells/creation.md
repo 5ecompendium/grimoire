@@ -2,7 +2,7 @@
 layout: spell
 title: "Creation"
 sources: [PHB.229, SRD.132]
-tags: [cleric (forge), sorcerer, wizard, level5, illusion]
+tags: [artificer, cleric (forge), sorcerer, wizard, level5, illusion]
 ---
 
 **5th-level illusion**

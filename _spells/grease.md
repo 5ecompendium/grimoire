@@ -2,7 +2,7 @@
 layout: spell
 title:  "Grease"
 sources: [PHB.246, SRD.150]
-tags: [wizard, level1, conjuration]
+tags: [artificer, wizard, level1, conjuration]
 ---
 
 **1st-level conjuration**

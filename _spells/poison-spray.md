@@ -2,7 +2,7 @@
 layout: spell
 title:  "Poison Spray"
 sources: [PHB.266, SRD.169]
-tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
+tags: [artificer, druid, sorcerer, warlock, wizard, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

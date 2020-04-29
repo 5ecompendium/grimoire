@@ -2,7 +2,7 @@
 layout: spell
 title:  "Aid"
 sources: [PHB.211, SRD.114]
-tags: [cleric, paladin, level2, abjuration]
+tags: [artificer, cleric, paladin, level2, abjuration]
 ---
 
 **2nd-level abjuration**

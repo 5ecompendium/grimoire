@@ -2,7 +2,7 @@
 layout: spell
 title: "Levitate"
 sources: [PHB.255, SRD.158]
-tags: [genasi (air), sorcerer, wizard, level2, transmutation]
+tags: [genasi (air), artificer, sorcerer, wizard, level2, transmutation]
 ---
 
 **2nd-level transmutation**

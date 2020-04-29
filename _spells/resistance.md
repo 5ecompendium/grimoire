@@ -2,7 +2,7 @@
 layout: spell
 title:  "Resistance"
 sources: [PHB.272, SRD.175]
-tags: [cleric, druid, cantrip, abjuration]
+tags: [artificer, cleric, druid, cantrip, abjuration]
 ---
 
 **Abjuration cantrip**

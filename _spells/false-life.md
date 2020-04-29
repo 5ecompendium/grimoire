@@ -2,7 +2,7 @@
 layout: spell
 title:  "False Life"
 sources: [PHB.239, SRD.142]
-tags: [cleric (death), cleric (grave), sorcerer, warlock (undying), wizard, level1, necromancy]
+tags: [artificer, cleric (death), cleric (grave), sorcerer, warlock (undying), wizard, level1, necromancy]
 ---
 
 **1st-level necromancy**

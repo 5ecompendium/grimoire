@@ -2,7 +2,7 @@
 layout: spell
 title:  "Aura Of Vitality"
 sources: [PHB.216]
-tags: [paladin, level3, evocation]
+tags: [artificer (battle smith), paladin, level3, evocation]
 ---
 
 **3rd-level evocation**

@@ -2,7 +2,7 @@
 layout: spell
 title: "Stoneskin"
 sources: [PHB.278, SRD.183]
-tags: [cleric (war), druid, monk (four elements), paladin (ancients), paladin (conquest), paladin (redemption), sorcerer, ranger, wizard, level4, abjuration]
+tags: [artificer, cleric (war), druid, monk (four elements), paladin (ancients), paladin (conquest), paladin (redemption), sorcerer, ranger, wizard, level4, abjuration]
 ---
 
 **4th-level abjuration**

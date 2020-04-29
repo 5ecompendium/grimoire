@@ -2,7 +2,7 @@
 layout: spell
 title:  "Feather Fall"
 sources: [PHB.239, SRD.142]
-tags: [bard, sorcerer, wizard, level1, transmutation]
+tags: [artificer, bard, sorcerer, wizard, level1, transmutation]
 ---
 
 **1st-level transmutation**

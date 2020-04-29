@@ -2,7 +2,7 @@
 layout: spell
 title:  "Elemental Bane"
 sources: [EE.17, Xanathar.155]
-tags: [druid, warlock, wizard, level4, transmutation]
+tags: [artificer, druid, warlock, wizard, level4, transmutation]
 ---
 
 **4th-level transmutation**

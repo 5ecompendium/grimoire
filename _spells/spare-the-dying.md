@@ -2,7 +2,7 @@
 layout: spell
 title:  "Spare the Dying"
 sources: [PHB.277, SRD.181]
-tags: [cleric, cantrip, necromancy]
+tags: [artificer, cleric, cantrip, necromancy]
 ---
 
 **Necromancy cantrip**

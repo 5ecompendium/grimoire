@@ -2,7 +2,7 @@
 layout: spell
 title: "Bigby’s Hand"
 sources: [PHB.218]
-tags: [wizard, level5, evocation]
+tags: [artificer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

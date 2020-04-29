@@ -2,7 +2,7 @@
 layout: spell
 title:  "Frostbite"
 sources: [EE.18, Xanathar.156]
-tags: [druid, sorcerer, warlock, wizard, cantrip, evocation]
+tags: [artificer, druid, sorcerer, warlock, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

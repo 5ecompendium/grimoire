@@ -2,7 +2,7 @@
 layout: spell
 title:  "Heroism"
 sources: [PHB.250, SRD.154]
-tags: [bard, paladin, level1, enchantment]
+tags: [artificer (battle smith), bard, paladin, level1, enchantment]
 ---
 
 **1st-level enchantment**

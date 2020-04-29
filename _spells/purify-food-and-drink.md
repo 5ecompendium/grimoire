@@ -2,7 +2,7 @@
 layout: spell
 title:  "Purify Food and Drink"
 sources: [PHB.270, SRD.173]
-tags: [cleric, druid, paladin, level1, ritual, transmutation]
+tags: [artificer, cleric, druid, paladin, level1, ritual, transmutation]
 ---
 
 **1st-level transmutation (ritual)**
